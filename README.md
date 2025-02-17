@@ -66,3 +66,4 @@ Analyzing why certain days, such as Thursday and Sunday, may exhibit longer aver
 𝗘𝗻𝗵𝗮𝗻𝗰𝗲 𝗿𝗼𝘂𝘁𝗲 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴:
 Using OSRM data effectively can improve both predicted time and actual delivery efficiency
 
+(https://github.com/user-attachments/assets/99b5fa0c-2e68-4c29-9bdc-057dd985d645)

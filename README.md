@@ -64,6 +64,6 @@ Focusing on the 13.86% of delayed shipments can provide insights into bottleneck
 Analyzing why certain days, such as Thursday and Sunday, may exhibit longer average delivery times can help in planning and resource allocation.
 
 𝗘𝗻𝗵𝗮𝗻𝗰𝗲 𝗿𝗼𝘂𝘁𝗲 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴:
-Using OSRM data effectively can improve both predicted time and actual delivery efficiency
+Using OSRM data effectively can improve both predicted time and actual delivery efficiency 
 
-(https://github.com/user-attachments/assets/99b5fa0c-2e68-4c29-9bdc-057dd985d645)
+![imageAlt](https://github.com/santhosh99111/Delhivery-logistics-dashboard-Analysis-/blob/48d70996042f3f98f5481f92d6f98241202406bd/IMG_20250216_155259.jpg
